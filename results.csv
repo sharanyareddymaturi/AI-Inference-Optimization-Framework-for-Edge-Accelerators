@@ -1,0 +1,13 @@
+Accelerator,Model,Latency(ms),Energy(J),Memory(MB)
+CPU,MobileNet,84.000,1.2600,16.00
+CPU,MobileNet-INT8 (Quantized),42.000,0.6300,8.00
+GPU,MobileNet,21.000,1.5750,16.00
+GPU,MobileNet-INT8 (Quantized),10.500,0.7875,8.00
+NPU,MobileNet,8.400,0.1680,16.00
+NPU,MobileNet-INT8 (Quantized),4.200,0.0840,8.00
+CPU,MobileNet,84.000,1.2600,16.00
+CPU,MobileNet-INT8 (Quantized),42.000,0.6300,8.00
+GPU,MobileNet,21.000,1.5750,16.00
+GPU,MobileNet-INT8 (Quantized),10.500,0.7875,8.00
+NPU,MobileNet,8.400,0.1680,16.00
+NPU,MobileNet-INT8 (Quantized),4.200,0.0840,8.00
